@@ -5,7 +5,7 @@ const contentContainer = document.getElementById('content-container');
 const contentSections = document.querySelectorAll('.content-section');
 const closeButtons = document.querySelectorAll('.close-btn');
 
-// UPDATED: 'Silence Is The Noiseiest' is now split using '|'
+// UPDATED: 'Silence Is The Noisiest' is now split using '|'
 const treemapData = [
     { name: "About Me", value: 1, id: "About-Me", medium: "Meta" },
     { name: "Decision", value: 1, id: "Decision", medium: "Game/Interactive" },
