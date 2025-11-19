@@ -9,7 +9,7 @@ const closeButtons = document.querySelectorAll('.close-btn');
 const treemapData = [
     { name: "About Me", value: 1, id: "About-Me", medium: "Meta" },
     { name: "Decision", value: 1, id: "Decision", medium: "Game/Interactive" },
-    { name: "Silence Is The|Noiseiest", value: 1, id: "Silence-Is-The-Noiseiest", medium: "Installation/Film" },
+    { name: "Silence Is The|Noisiest", value: 1, id: "Silence-Is-The-Noisiest", medium: "Installation/Film" },
     { name: "The Other Side", value: 1, id: "The-Other-Side", medium: "Short Film" },
     { name: "Ngau Tau Kok Subway Murder", value: 1, id: "Ngau-Tau-Kok-Subway-Murder", medium: "Short Film" },
     { name: "Mr. Lam", value: 1, id: "Mr-Lam", medium: "Script Writing" },
